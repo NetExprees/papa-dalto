@@ -1,4 +1,4 @@
-# Papa-dalto.
+# Repositorio uno en le curso de git.
 primer repositorio creado en github
 
 ## Descripcion
